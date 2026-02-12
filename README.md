@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shreyasreddy21/leet/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shreyasreddy21/leet/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/shreyasreddy21/leet/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/shreyasreddy21/leet/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shreyasreddy21/leet/tree/master/0137-single-number-ii) |
 ## Hash Table
 |  |
@@ -55,5 +56,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shreyasreddy21/leet/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shreyasreddy21/leet/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
