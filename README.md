@@ -84,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shreyasreddy21/leet/tree/master/0303-range-sum-query-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shreyasreddy21/leet/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shreyasreddy21/leet/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shreyasreddy21/leet/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
