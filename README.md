@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shreyasreddy21/leet/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyasreddy21/leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shreyasreddy21/leet/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/shreyasreddy21/leet/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shreyasreddy21/leet/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shreyasreddy21/leet/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shreyasreddy21/leet/tree/master/0136-single-number) |
@@ -106,8 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyasreddy21/leet/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/shreyasreddy21/leet/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shreyasreddy21/leet/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/shreyasreddy21/leet/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
