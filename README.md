@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shreyasreddy21/leet/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shreyasreddy21/leet/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shreyasreddy21/leet/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shreyasreddy21/leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/shreyasreddy21/leet/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shreyasreddy21/leet/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shreyasreddy21/leet/tree/master/0136-single-number) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyasreddy21/leet/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shreyasreddy21/leet/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
