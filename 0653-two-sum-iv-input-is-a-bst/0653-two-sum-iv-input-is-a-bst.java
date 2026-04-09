@@ -17,7 +17,6 @@ class Solution {
     public boolean findTarget(TreeNode root, int k) {
         List<Integer> l=new ArrayList<>();
         add(root,l);
-        Collections.sort(l);
         int left=0,right=l.size()-1;
         while(left<right)
         {
@@ -42,9 +41,8 @@ class Solution {
         {
             return;
         }
-        l.add(root.val);
         add(root.left,l);
-        //l.add(root.val);
+        l.add(root.val);
         add(root.right,l);
     }
 
