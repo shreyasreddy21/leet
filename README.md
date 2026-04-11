@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyasreddy21/leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shreyasreddy21/leet/tree/master/0005-longest-palindromic-substring) |
+| [0043-multiply-strings](https://github.com/shreyasreddy21/leet/tree/master/0043-multiply-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyasreddy21/leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyasreddy21/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shreyasreddy21/leet/tree/master/0567-permutation-in-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyasreddy21/leet/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shreyasreddy21/leet/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/shreyasreddy21/leet/tree/master/0043-multiply-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/shreyasreddy21/leet/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
