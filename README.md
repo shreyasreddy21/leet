@@ -89,12 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shreyasreddy21/leet/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/shreyasreddy21/leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shreyasreddy21/leet/tree/master/0055-jump-game) |
+| [0095-unique-binary-search-trees-ii](https://github.com/shreyasreddy21/leet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0338-counting-bits](https://github.com/shreyasreddy21/leet/tree/master/0338-counting-bits) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/shreyasreddy21/leet/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shreyasreddy21/leet/tree/master/0078-subsets) |
+| [0095-unique-binary-search-trees-ii](https://github.com/shreyasreddy21/leet/tree/master/0095-unique-binary-search-trees-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/shreyasreddy21/leet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
@@ -149,10 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/shreyasreddy21/leet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/shreyasreddy21/leet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Simulation
 |  |
