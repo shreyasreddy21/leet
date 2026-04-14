@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shreyasreddy21/leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shreyasreddy21/leet/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/shreyasreddy21/leet/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/shreyasreddy21/leet/tree/master/0096-unique-binary-search-trees) |
 | [0338-counting-bits](https://github.com/shreyasreddy21/leet/tree/master/0338-counting-bits) |
 ## Backtracking
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shreyasreddy21/leet/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shreyasreddy21/leet/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/shreyasreddy21/leet/tree/master/0043-multiply-strings) |
+| [0096-unique-binary-search-trees](https://github.com/shreyasreddy21/leet/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/shreyasreddy21/leet/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/shreyasreddy21/leet/tree/master/0096-unique-binary-search-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
@@ -153,11 +156,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/shreyasreddy21/leet/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/shreyasreddy21/leet/tree/master/0096-unique-binary-search-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/shreyasreddy21/leet/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/shreyasreddy21/leet/tree/master/0096-unique-binary-search-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Simulation
 |  |
