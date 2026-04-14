@@ -15,10 +15,6 @@
  */
 class Solution {
     public List<TreeNode> generateTrees(int n) {
-        // if(n==0)
-        // {
-        //     return new ArrayList<>();
-        // }
         return tree(1,n);
     }
     public List<TreeNode> tree(int start,int end)
