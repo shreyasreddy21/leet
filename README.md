@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shreyasreddy21/leet/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shreyasreddy21/leet/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shreyasreddy21/leet/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shreyasreddy21/leet/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyasreddy21/leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyasreddy21/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyasreddy21/leet/tree/master/0560-subarray-sum-equals-k) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/shreyasreddy21/leet/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/shreyasreddy21/leet/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shreyasreddy21/leet/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/shreyasreddy21/leet/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyasreddy21/leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyasreddy21/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shreyasreddy21/leet/tree/master/0567-permutation-in-string) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shreyasreddy21/leet/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shreyasreddy21/leet/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/shreyasreddy21/leet/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shreyasreddy21/leet/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
