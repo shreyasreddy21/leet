@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shreyasreddy21/leet/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shreyasreddy21/leet/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shreyasreddy21/leet/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/shreyasreddy21/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shreyasreddy21/leet/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shreyasreddy21/leet/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/shreyasreddy21/leet/tree/master/0217-contains-duplicate) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyasreddy21/leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/shreyasreddy21/leet/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shreyasreddy21/leet/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/shreyasreddy21/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/shreyasreddy21/leet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreyasreddy21/leet/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasreddy21/leet/tree/master/0347-top-k-frequent-elements) |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shreyasreddy21/leet/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shreyasreddy21/leet/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
