@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/shreyasreddy21/leet/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/shreyasreddy21/leet/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shreyasreddy21/leet/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/shreyasreddy21/leet/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shreyasreddy21/leet/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyasreddy21/leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyasreddy21/leet/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shreyasreddy21/leet/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreyasreddy21/leet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/shreyasreddy21/leet/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/shreyasreddy21/leet/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/shreyasreddy21/leet/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/shreyasreddy21/leet/tree/master/0680-valid-palindrome-ii) |
