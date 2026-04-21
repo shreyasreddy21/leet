@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shreyasreddy21/leet/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/shreyasreddy21/leet/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/shreyasreddy21/leet/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shreyasreddy21/leet/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/shreyasreddy21/leet/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shreyasreddy21/leet/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/shreyasreddy21/leet/tree/master/0125-valid-palindrome) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyasreddy21/leet/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/shreyasreddy21/leet/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/shreyasreddy21/leet/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shreyasreddy21/leet/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/shreyasreddy21/leet/tree/master/0095-unique-binary-search-trees-ii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shreyasreddy21/leet/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/shreyasreddy21/leet/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shreyasreddy21/leet/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/shreyasreddy21/leet/tree/master/0078-subsets) |
