@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/shreyasreddy21/leet/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasreddy21/leet/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyasreddy21/leet/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/shreyasreddy21/leet/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shreyasreddy21/leet/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shreyasreddy21/leet/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/shreyasreddy21/leet/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyasreddy21/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/shreyasreddy21/leet/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
