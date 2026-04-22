@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shreyasreddy21/leet/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shreyasreddy21/leet/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/shreyasreddy21/leet/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/shreyasreddy21/leet/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/shreyasreddy21/leet/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasreddy21/leet/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyasreddy21/leet/tree/master/0560-subarray-sum-equals-k) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shreyasreddy21/leet/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shreyasreddy21/leet/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyasreddy21/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/shreyasreddy21/leet/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/shreyasreddy21/leet/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/shreyasreddy21/leet/tree/master/0680-valid-palindrome-ii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/shreyasreddy21/leet/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/shreyasreddy21/leet/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/shreyasreddy21/leet/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/shreyasreddy21/leet/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/shreyasreddy21/leet/tree/master/0338-counting-bits) |
 ## Dynamic Programming
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shreyasreddy21/leet/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/shreyasreddy21/leet/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyasreddy21/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/shreyasreddy21/leet/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/shreyasreddy21/leet/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
