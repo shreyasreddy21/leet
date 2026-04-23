@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/shreyasreddy21/leet/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasreddy21/leet/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyasreddy21/leet/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/shreyasreddy21/leet/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/shreyasreddy21/leet/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shreyasreddy21/leet/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shreyasreddy21/leet/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/shreyasreddy21/leet/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/shreyasreddy21/leet/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/shreyasreddy21/leet/tree/master/0695-max-area-of-island) |
 ## Tree
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/shreyasreddy21/leet/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shreyasreddy21/leet/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/shreyasreddy21/leet/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/shreyasreddy21/leet/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shreyasreddy21/leet/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/shreyasreddy21/leet/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shreyasreddy21/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/shreyasreddy21/leet/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/shreyasreddy21/leet/tree/master/0695-max-area-of-island) |
 ## Stack
 |  |
 | ------- |
