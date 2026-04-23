@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shreyasreddy21/leet/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyasreddy21/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyasreddy21/leet/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/shreyasreddy21/leet/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/shreyasreddy21/leet/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shreyasreddy21/leet/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shreyasreddy21/leet/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shreyasreddy21/leet/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/shreyasreddy21/leet/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/shreyasreddy21/leet/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/shreyasreddy21/leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shreyasreddy21/leet/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/shreyasreddy21/leet/tree/master/0695-max-area-of-island) |
 ## Tree
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/shreyasreddy21/leet/tree/master/0110-balanced-binary-tree) |
+| [0130-surrounded-regions](https://github.com/shreyasreddy21/leet/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/shreyasreddy21/leet/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shreyasreddy21/leet/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shreyasreddy21/leet/tree/master/0102-binary-tree-level-order-traversal) |
+| [0130-surrounded-regions](https://github.com/shreyasreddy21/leet/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/shreyasreddy21/leet/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shreyasreddy21/leet/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shreyasreddy21/leet/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/shreyasreddy21/leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shreyasreddy21/leet/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/shreyasreddy21/leet/tree/master/0695-max-area-of-island) |
 ## Stack
