@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shreyasreddy21/leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shreyasreddy21/leet/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/shreyasreddy21/leet/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/shreyasreddy21/leet/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/shreyasreddy21/leet/tree/master/0695-max-area-of-island) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/shreyasreddy21/leet/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shreyasreddy21/leet/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/shreyasreddy21/leet/tree/master/0695-max-area-of-island) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/shreyasreddy21/leet/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shreyasreddy21/leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shreyasreddy21/leet/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/shreyasreddy21/leet/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Simulation
 |  |
 | ------- |
