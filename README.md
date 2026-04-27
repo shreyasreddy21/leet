@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/shreyasreddy21/leet/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shreyasreddy21/leet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shreyasreddy21/leet/tree/master/0110-balanced-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shreyasreddy21/leet/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shreyasreddy21/leet/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/shreyasreddy21/leet/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/shreyasreddy21/leet/tree/master/0200-number-of-islands) |
+| [0572-subtree-of-another-tree](https://github.com/shreyasreddy21/leet/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/shreyasreddy21/leet/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/shreyasreddy21/leet/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shreyasreddy21/leet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shreyasreddy21/leet/tree/master/0110-balanced-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shreyasreddy21/leet/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Simulation
 |  |
@@ -279,4 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/shreyasreddy21/leet/tree/master/0133-clone-graph) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shreyasreddy21/leet/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shreyasreddy21/leet/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
