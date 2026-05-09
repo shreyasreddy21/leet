@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shreyasreddy21/leet/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shreyasreddy21/leet/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shreyasreddy21/leet/tree/master/0078-subsets) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shreyasreddy21/leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyasreddy21/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyasreddy21/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/shreyasreddy21/leet/tree/master/0130-surrounded-regions) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shreyasreddy21/leet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/shreyasreddy21/leet/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shreyasreddy21/leet/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shreyasreddy21/leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyasreddy21/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/shreyasreddy21/leet/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/shreyasreddy21/leet/tree/master/0141-linked-list-cycle) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shreyasreddy21/leet/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shreyasreddy21/leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasreddy21/leet/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/shreyasreddy21/leet/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shreyasreddy21/leet/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shreyasreddy21/leet/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shreyasreddy21/leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shreyasreddy21/leet/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shreyasreddy21/leet/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/shreyasreddy21/leet/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shreyasreddy21/leet/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shreyasreddy21/leet/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shreyasreddy21/leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shreyasreddy21/leet/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shreyasreddy21/leet/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0230-kth-smallest-element-in-a-bst) |
