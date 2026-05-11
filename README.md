@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/shreyasreddy21/leet/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasreddy21/leet/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyasreddy21/leet/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/shreyasreddy21/leet/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/shreyasreddy21/leet/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/shreyasreddy21/leet/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shreyasreddy21/leet/tree/master/0739-daily-temperatures) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyasreddy21/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyasreddy21/leet/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shreyasreddy21/leet/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/shreyasreddy21/leet/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasreddy21/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shreyasreddy21/leet/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/shreyasreddy21/leet/tree/master/0055-jump-game) |
+| [0621-task-scheduler](https://github.com/shreyasreddy21/leet/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/shreyasreddy21/leet/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shreyasreddy21/leet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreyasreddy21/leet/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasreddy21/leet/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/shreyasreddy21/leet/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/shreyasreddy21/leet/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyasreddy21/leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasreddy21/leet/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/shreyasreddy21/leet/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreyasreddy21/leet/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/shreyasreddy21/leet/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/shreyasreddy21/leet/tree/master/1046-last-stone-weight) |
@@ -305,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shreyasreddy21/leet/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/shreyasreddy21/leet/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
