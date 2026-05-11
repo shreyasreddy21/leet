@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shreyasreddy21/leet/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/shreyasreddy21/leet/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shreyasreddy21/leet/tree/master/0739-daily-temperatures) |
+| [0973-k-closest-points-to-origin](https://github.com/shreyasreddy21/leet/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/shreyasreddy21/leet/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shreyasreddy21/leet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreyasreddy21/leet/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasreddy21/leet/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/shreyasreddy21/leet/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shreyasreddy21/leet/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/shreyasreddy21/leet/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shreyasreddy21/leet/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0973-k-closest-points-to-origin](https://github.com/shreyasreddy21/leet/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shreyasreddy21/leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyasreddy21/leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasreddy21/leet/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/shreyasreddy21/leet/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyasreddy21/leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasreddy21/leet/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/shreyasreddy21/leet/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/shreyasreddy21/leet/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -300,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyasreddy21/leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasreddy21/leet/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/shreyasreddy21/leet/tree/master/0973-k-closest-points-to-origin) |
 ## Union-Find
 |  |
 | ------- |
@@ -336,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shreyasreddy21/leet/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/shreyasreddy21/leet/tree/master/0208-implement-trie-prefix-tree) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shreyasreddy21/leet/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
