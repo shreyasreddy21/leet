@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shreyasreddy21/leet/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/shreyasreddy21/leet/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shreyasreddy21/leet/tree/master/0739-daily-temperatures) |
+| [1046-last-stone-weight](https://github.com/shreyasreddy21/leet/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyasreddy21/leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasreddy21/leet/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/shreyasreddy21/leet/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
