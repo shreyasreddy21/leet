@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shreyasreddy21/leet/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/shreyasreddy21/leet/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shreyasreddy21/leet/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/shreyasreddy21/leet/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shreyasreddy21/leet/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/shreyasreddy21/leet/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/shreyasreddy21/leet/tree/master/0242-valid-anagram) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shreyasreddy21/leet/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/shreyasreddy21/leet/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shreyasreddy21/leet/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shreyasreddy21/leet/tree/master/0137-single-number-ii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shreyasreddy21/leet/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/shreyasreddy21/leet/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/shreyasreddy21/leet/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/shreyasreddy21/leet/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/shreyasreddy21/leet/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shreyasreddy21/leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/shreyasreddy21/leet/tree/master/0973-k-closest-points-to-origin) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shreyasreddy21/leet/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/shreyasreddy21/leet/tree/master/0067-add-binary) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
